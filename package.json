@@ -8,11 +8,27 @@
     "test": "echo \"testing?\""
   },
   "author": "bever1337",
-  "license": "Apache-2.0",
+  "license": "SEE LICENSE IN LICENSE",
   "peer-dependencies": {
     "dayjs": "^1.8.19"
   },
   "devDependencies": {
     "dayjs": "^1.8.19"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bever1337/yold.git"
+  },
+  "keywords": [
+    "principia",
+    "discordia",
+    "dayjs",
+    "i18n",
+    "yold"
+  ],
+  "bugs": {
+    "url": "https://github.com/bever1337/yold/issues"
+  },
+  "homepage": "https://github.com/bever1337/yold#readme"
 }

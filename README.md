@@ -3,6 +3,7 @@
 [Principia Discordia](http://principiadiscordia.com/book/41.php)
 
 ## installation
+Vendor it! ¯\_(ツ)_/¯
 ```
   npm install dayjs
   cd node_modules

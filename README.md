@@ -1,5 +1,12 @@
 # yold
 
+## installation
+```
+  npm install dayjs
+  cd node_modules
+  git clone https://github.com/bever1337/yold.git
+```
+
 ## usage
 ```javascript
   import dayjs from "dayjs";

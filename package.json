@@ -18,7 +18,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bever1337/yold.git"
+    "url": "git://github.com:bever1337/yold.git"
   },
   "keywords": [
     "principia",
@@ -30,5 +30,6 @@
   "bugs": {
     "url": "https://github.com/bever1337/yold/issues"
   },
-  "homepage": "https://github.com/bever1337/yold#readme"
+  "homepage": "https://github.com/bever1337/yold#readme",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }

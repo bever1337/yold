@@ -33,5 +33,5 @@
   );
   console.log(dayjs().format("dddd D MMMM YYYY"));
   // > Sweetmorn 26 Chaos 3186
-  // > Sweetmorn 26 Chaos 2020
+  // > Sweetmorn 26 Chaos 2020 // Oops!
 ```

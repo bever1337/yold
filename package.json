@@ -1,5 +1,5 @@
 {
-  "name": "yold",
+  "name": "@bever1337/yold",
   "version": "0.0.1",
   "description": "dayjs i18n locale and plugin for the YOLD (Year of Our Lady of Discord) calendar",
   "main": "index.js",

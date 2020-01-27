@@ -1,4 +1,6 @@
 # yold
+## preface
+[Principia Discordia](http://principiadiscordia.com/book/41.php)
 
 ## installation
 ```

@@ -1,0 +1,18 @@
+{
+  "name": "yold",
+  "version": "0.0.1",
+  "description": "dayjs i18n locale and plugin for the YOLD (Year of Our Lady of Discord) calendar",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"testing?\""
+  },
+  "author": "bever1337",
+  "license": "Apache-2.0",
+  "peer-dependencies": {
+    "dayjs": "^1.8.19"
+  },
+  "devDependencies": {
+    "dayjs": "^1.8.19"
+  }
+}
